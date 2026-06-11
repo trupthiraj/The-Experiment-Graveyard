@@ -1,0 +1,4 @@
+confidence_category,total_experiments,false_positives_shipped,total_cost
+High Confidence,112,77,8803000
+Low Confidence,23,19,2073000
+Medium Confidence,65,51,6301000

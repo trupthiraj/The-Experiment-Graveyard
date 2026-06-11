@@ -1,0 +1,21 @@
+experiment_type,peeked,total,false_positives,false_positive_rate
+Autoplay next episode,False,8,4,50.0
+Autoplay next episode,True,7,7,100.0
+Continue watching prompt,False,12,8,66.7
+Continue watching prompt,True,4,3,75.0
+Download for offline prompt,False,14,11,78.6
+Download for offline prompt,True,11,8,72.7
+Email re-engagement,False,16,9,56.2
+Email re-engagement,True,7,6,85.7
+Personalised thumbnail,False,12,7,58.3
+Personalised thumbnail,True,11,8,72.7
+Price discount popup,False,8,6,75.0
+Price discount popup,True,6,6,100.0
+Recommended row placement,False,12,8,66.7
+Recommended row placement,True,5,3,60.0
+Skip intro button,False,9,8,88.9
+Skip intro button,True,11,8,72.7
+Social proof badge,False,11,9,81.8
+Social proof badge,True,14,12,85.7
+Top 10 label,False,16,12,75.0
+Top 10 label,True,6,4,66.7

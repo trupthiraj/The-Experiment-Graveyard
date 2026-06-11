@@ -1,0 +1,201 @@
+experiment_id,experiment_type,primary_metric,called_winner,true_winner,error_type,peeked,underpowered,p_hacking_risk,p_value,actual_sample_size,actual_duration_days,decision_confidence_score,false_positive_risk_index
+EXP112,Recommended row placement,click_through_rate,True,False,False Positive,True,True,True,0.0,1274,3,25.0,0.8
+EXP145,Email re-engagement,reactivation_rate,True,False,False Positive,True,True,True,0.0,1861,3,25.0,0.8
+EXP100,Download for offline prompt,feature_adoption,True,False,False Positive,True,True,True,0.0,3489,5,25.0,0.8
+EXP166,Personalised thumbnail,click_through_rate,True,False,False Positive,True,True,True,0.0,3813,10,25.0,0.8
+EXP164,Autoplay next episode,watch_time,True,False,False Positive,True,True,True,0.0,3331,9,25.0,0.8
+EXP010,Autoplay next episode,watch_time,True,False,False Positive,True,True,True,0.0,2180,5,25.0,0.8
+EXP081,Email re-engagement,reactivation_rate,True,False,False Positive,True,True,True,0.0,2385,4,25.0,0.8
+EXP068,Social proof badge,engagement_rate,True,False,False Positive,True,True,True,0.0,2562,3,25.0,0.8
+EXP200,Top 10 label,engagement_rate,True,False,False Positive,True,True,True,0.0,2523,26,25.0,0.8
+EXP059,Social proof badge,engagement_rate,True,False,False Positive,True,True,True,0.0,1175,25,25.0,0.8
+EXP185,Skip intro button,episode_completion,True,False,False Positive,True,True,True,0.0,4160,12,25.0,0.8
+EXP098,Download for offline prompt,feature_adoption,True,True,True Positive,True,True,True,0.0006,3753,20,25.0,0.8
+EXP121,Social proof badge,engagement_rate,True,False,False Positive,True,True,True,0.0,276,4,25.0,0.8
+EXP002,Autoplay next episode,watch_time,True,False,False Positive,True,True,True,0.0,2231,22,25.0,0.8
+EXP095,Skip intro button,episode_completion,True,True,True Positive,True,True,True,0.0,2091,5,25.0,0.8
+EXP175,Social proof badge,engagement_rate,True,False,False Positive,True,True,True,0.0,2637,7,25.0,0.8
+EXP102,Social proof badge,engagement_rate,True,False,False Positive,True,True,True,0.0,4688,20,25.0,0.8
+EXP043,Top 10 label,engagement_rate,True,False,False Positive,True,True,False,0.0,2299,14,45.0,0.6
+EXP066,Skip intro button,episode_completion,True,False,False Positive,True,True,False,0.0,3872,4,45.0,0.6
+EXP136,Continue watching prompt,watch_time,True,False,False Positive,True,True,False,0.0,3808,4,45.0,0.6
+EXP091,Price discount popup,subscription_conversion,True,False,False Positive,True,True,False,0.0,4336,7,45.0,0.6
+EXP169,Skip intro button,episode_completion,False,False,True Negative,True,True,False,0.4354,4225,8,45.0,0.6
+EXP108,Skip intro button,episode_completion,False,False,True Negative,True,True,False,0.3398,4649,3,45.0,0.6
+EXP140,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,True,0.0,7466,20,50.0,0.55
+EXP196,Email re-engagement,reactivation_rate,True,False,False Positive,True,False,True,0.0,5114,9,50.0,0.55
+EXP139,Price discount popup,subscription_conversion,True,False,False Positive,True,False,True,0.0,16110,31,50.0,0.55
+EXP138,Email re-engagement,reactivation_rate,True,False,False Positive,True,False,True,0.0,21228,29,50.0,0.55
+EXP137,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,16876,32,50.0,0.55
+EXP135,Autoplay next episode,watch_time,True,False,False Positive,True,False,True,0.0,13291,42,50.0,0.55
+EXP048,Skip intro button,episode_completion,True,False,False Positive,True,False,True,0.0,8253,24,50.0,0.55
+EXP050,Email re-engagement,reactivation_rate,True,False,False Positive,True,False,True,0.0,13305,9,50.0,0.55
+EXP051,Continue watching prompt,watch_time,True,True,True Positive,True,False,True,0.0,11409,39,50.0,0.55
+EXP122,Top 10 label,engagement_rate,True,True,True Positive,True,False,True,0.0,12527,46,50.0,0.55
+EXP118,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,22540,25,50.0,0.55
+EXP042,Download for offline prompt,feature_adoption,True,True,True Positive,True,False,True,0.0,12251,7,50.0,0.55
+EXP096,Social proof badge,engagement_rate,True,False,False Positive,True,False,True,0.0,17087,14,50.0,0.55
+EXP088,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,6870,14,50.0,0.55
+EXP086,Price discount popup,subscription_conversion,True,False,False Positive,True,False,True,0.0,11804,26,50.0,0.55
+EXP084,Social proof badge,engagement_rate,True,False,False Positive,True,False,True,0.0,11000,6,50.0,0.55
+EXP079,Social proof badge,engagement_rate,True,True,True Positive,True,False,True,0.0,36040,19,50.0,0.55
+EXP184,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,True,0.0,5012,5,50.0,0.55
+EXP180,Recommended row placement,click_through_rate,True,True,True Positive,True,False,True,0.0,15136,27,50.0,0.55
+EXP178,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,15504,18,50.0,0.55
+EXP177,Email re-engagement,reactivation_rate,True,True,True Positive,True,False,True,0.0,23439,18,50.0,0.55
+EXP017,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,True,0.0,11184,8,50.0,0.55
+EXP018,Recommended row placement,click_through_rate,True,False,False Positive,True,False,True,0.0,11281,8,50.0,0.55
+EXP174,Social proof badge,engagement_rate,True,True,True Positive,True,False,True,0.0,14725,20,50.0,0.55
+EXP170,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,8884,35,50.0,0.55
+EXP022,Download for offline prompt,feature_adoption,True,True,True Positive,True,False,True,0.0,5513,5,50.0,0.55
+EXP024,Price discount popup,subscription_conversion,True,False,False Positive,True,False,True,0.0,11832,11,50.0,0.55
+EXP161,Email re-engagement,reactivation_rate,True,False,False Positive,True,False,True,0.0,36608,15,50.0,0.55
+EXP004,Top 10 label,engagement_rate,True,False,False Positive,True,False,True,0.0,5660,27,50.0,0.55
+EXP160,Continue watching prompt,watch_time,True,False,False Positive,True,False,True,0.0,12953,26,50.0,0.55
+EXP156,Recommended row placement,click_through_rate,True,True,True Positive,True,False,True,0.0,15764,20,50.0,0.55
+EXP153,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,True,0.0,15725,6,50.0,0.55
+EXP033,Top 10 label,engagement_rate,True,True,True Positive,True,False,True,0.0,9505,18,50.0,0.55
+EXP148,Social proof badge,engagement_rate,True,False,False Positive,True,False,True,0.0,7645,9,50.0,0.55
+EXP107,Skip intro button,episode_completion,True,False,False Positive,True,False,True,0.0,12733,21,50.0,0.55
+EXP103,Social proof badge,engagement_rate,True,False,False Positive,True,False,True,0.0,12021,24,50.0,0.55
+EXP062,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,True,0.0,13195,13,50.0,0.55
+EXP064,Social proof badge,engagement_rate,True,False,False Positive,True,False,True,0.0,7800,20,50.0,0.55
+EXP006,Recommended row placement,click_through_rate,True,False,False Positive,False,True,True,0.0,4003,26,55.0,0.45
+EXP133,Download for offline prompt,feature_adoption,True,False,False Positive,False,True,True,0.0,1912,19,55.0,0.45
+EXP193,Skip intro button,episode_completion,True,False,False Positive,False,True,True,0.0,2747,42,55.0,0.45
+EXP003,Continue watching prompt,watch_time,True,False,False Positive,False,True,True,0.0,1425,42,55.0,0.45
+EXP040,Download for offline prompt,feature_adoption,True,True,True Positive,False,True,True,0.0,4329,30,55.0,0.45
+EXP052,Skip intro button,episode_completion,True,False,False Positive,True,False,False,0.0285,24491,24,60.0,0.5
+EXP001,Personalised thumbnail,click_through_rate,True,True,True Positive,True,False,False,0.0,11124,7,70.0,0.35
+EXP009,Skip intro button,episode_completion,True,False,False Positive,True,False,False,0.0,13602,38,70.0,0.35
+EXP012,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,False,0.0,21313,40,70.0,0.35
+EXP028,Social proof badge,engagement_rate,True,False,False Positive,True,False,False,0.0,32709,44,70.0,0.35
+EXP030,Continue watching prompt,watch_time,True,False,False Positive,True,False,False,0.0,39216,38,70.0,0.35
+EXP035,Skip intro button,episode_completion,True,False,False Positive,True,False,False,0.0,8674,19,70.0,0.35
+EXP038,Autoplay next episode,watch_time,True,False,False Positive,True,False,False,0.0,7152,45,70.0,0.35
+EXP049,Recommended row placement,click_through_rate,True,False,False Positive,True,False,False,0.0,18260,37,70.0,0.35
+EXP055,Price discount popup,subscription_conversion,True,False,False Positive,True,False,False,0.0,31700,21,70.0,0.35
+EXP065,Personalised thumbnail,click_through_rate,True,True,True Positive,True,False,False,0.0,14394,7,70.0,0.35
+EXP070,Personalised thumbnail,click_through_rate,True,True,True Positive,True,False,False,0.0,10075,32,70.0,0.35
+EXP072,Autoplay next episode,watch_time,True,False,False Positive,True,False,False,0.0,8173,25,70.0,0.35
+EXP085,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,True,0.0318,23528,44,70.0,0.35
+EXP101,Price discount popup,subscription_conversion,True,False,False Positive,True,False,False,0.0,7114,3,70.0,0.35
+EXP120,Skip intro button,episode_completion,True,False,False Positive,True,False,False,0.0,13431,6,70.0,0.35
+EXP151,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,False,0.0,10414,10,70.0,0.35
+EXP155,Autoplay next episode,watch_time,True,False,False Positive,True,False,False,0.0,6728,9,70.0,0.35
+EXP159,Top 10 label,engagement_rate,True,False,False Positive,True,False,False,0.0,10620,12,70.0,0.35
+EXP162,Social proof badge,engagement_rate,True,False,False Positive,True,False,False,0.0,5184,19,70.0,0.35
+EXP179,Download for offline prompt,feature_adoption,True,False,False Positive,True,False,False,0.0,9585,26,70.0,0.35
+EXP194,Personalised thumbnail,click_through_rate,True,False,False Positive,True,False,False,0.0,10251,6,70.0,0.35
+EXP060,Skip intro button,episode_completion,True,False,False Positive,False,True,False,0.0,4291,58,75.0,0.25
+EXP105,Recommended row placement,click_through_rate,True,False,False Positive,False,True,False,0.0,1075,39,75.0,0.25
+EXP157,Email re-engagement,reactivation_rate,True,False,False Positive,False,True,False,0.0,2720,57,75.0,0.25
+EXP117,Social proof badge,engagement_rate,True,False,False Positive,False,True,False,0.0,2005,47,75.0,0.25
+EXP023,Skip intro button,episode_completion,True,True,True Positive,False,True,False,0.0,4858,18,75.0,0.25
+EXP061,Social proof badge,engagement_rate,True,False,False Positive,False,False,True,0.0,37629,43,80.0,0.2
+EXP093,Download for offline prompt,feature_adoption,True,True,True Positive,False,False,True,0.0,41528,40,80.0,0.2
+EXP071,Social proof badge,engagement_rate,True,True,True Positive,False,False,True,0.0,25846,35,80.0,0.2
+EXP005,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,True,0.0,36142,16,80.0,0.2
+EXP053,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,22376,33,80.0,0.2
+EXP124,Social proof badge,engagement_rate,True,False,False Positive,False,False,True,0.0,5840,57,80.0,0.2
+EXP125,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,True,0.0,46240,54,80.0,0.2
+EXP127,Continue watching prompt,watch_time,True,False,False Positive,False,False,True,0.0,45944,14,80.0,0.2
+EXP128,Price discount popup,subscription_conversion,True,True,True Positive,False,False,True,0.0,24089,28,80.0,0.2
+EXP130,Personalised thumbnail,click_through_rate,True,True,True Positive,False,False,True,0.0,12510,34,80.0,0.2
+EXP131,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,17840,31,80.0,0.2
+EXP132,Recommended row placement,click_through_rate,True,True,True Positive,False,False,True,0.0,5934,21,80.0,0.2
+EXP134,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,True,0.0,8100,54,80.0,0.2
+EXP045,Skip intro button,episode_completion,True,False,False Positive,False,False,True,0.0,12603,24,80.0,0.2
+EXP041,Autoplay next episode,watch_time,True,False,False Positive,False,False,True,0.0,42753,35,80.0,0.2
+EXP039,Price discount popup,subscription_conversion,True,True,True Positive,False,False,True,0.0,11187,20,80.0,0.2
+EXP037,Top 10 label,engagement_rate,True,True,True Positive,False,False,True,0.0,25217,18,80.0,0.2
+EXP143,Recommended row placement,click_through_rate,True,True,True Positive,False,False,True,0.0,40058,23,80.0,0.2
+EXP036,Autoplay next episode,watch_time,True,True,True Positive,False,False,True,0.0,7552,53,80.0,0.2
+EXP034,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,True,0.0,35261,56,80.0,0.2
+EXP149,Personalised thumbnail,click_through_rate,True,True,True Positive,False,False,True,0.0,5304,34,80.0,0.2
+EXP195,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,31962,32,80.0,0.2
+EXP152,Recommended row placement,click_through_rate,True,False,False Positive,False,False,True,0.0,25530,34,80.0,0.2
+EXP154,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,27922,35,80.0,0.2
+EXP197,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,16573,21,80.0,0.2
+EXP163,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,35533,57,80.0,0.2
+EXP165,Recommended row placement,click_through_rate,True,True,True Positive,False,False,True,0.0,29223,14,80.0,0.2
+EXP025,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,True,0.0,27677,29,80.0,0.2
+EXP167,Continue watching prompt,watch_time,True,True,True Positive,False,False,True,0.0,28373,39,80.0,0.2
+EXP021,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,47723,60,80.0,0.2
+EXP172,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,37944,54,80.0,0.2
+EXP019,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,True,0.0,5535,60,80.0,0.2
+EXP176,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,49425,43,80.0,0.2
+EXP016,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,7973,25,80.0,0.2
+EXP199,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,20088,29,80.0,0.2
+EXP181,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,10268,19,80.0,0.2
+EXP182,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,21288,59,80.0,0.2
+EXP183,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,49416,58,80.0,0.2
+EXP013,Download for offline prompt,feature_adoption,True,True,True Positive,False,False,True,0.0,8185,19,80.0,0.2
+EXP011,Recommended row placement,click_through_rate,True,False,False Positive,False,False,True,0.0,43129,55,80.0,0.2
+EXP188,Social proof badge,engagement_rate,True,True,True Positive,False,False,True,0.0,30420,32,80.0,0.2
+EXP189,Skip intro button,episode_completion,True,False,False Positive,False,False,True,0.0,29874,57,80.0,0.2
+EXP080,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,True,0.0,6679,34,80.0,0.2
+EXP078,Autoplay next episode,watch_time,True,False,False Positive,False,False,True,0.0,7916,40,80.0,0.2
+EXP082,Recommended row placement,click_through_rate,True,False,False Positive,False,False,True,0.0,19105,52,80.0,0.2
+EXP083,Skip intro button,episode_completion,True,False,False Positive,False,False,True,0.0,33019,29,80.0,0.2
+EXP077,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,True,0.0,23754,50,80.0,0.2
+EXP076,Personalised thumbnail,click_through_rate,True,True,True Positive,False,False,True,0.0,16915,58,80.0,0.2
+EXP087,Top 10 label,engagement_rate,True,False,False Positive,False,False,True,0.0,19120,27,80.0,0.2
+EXP099,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,True,0.0,29780,50,80.0,0.2
+EXP008,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,40920,57,80.0,0.2
+EXP063,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,19173,29,80.0,0.2
+EXP104,Price discount popup,subscription_conversion,True,False,False Positive,False,False,True,0.0,37051,39,80.0,0.2
+EXP058,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,True,0.0,42272,18,80.0,0.2
+EXP109,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,True,0.0,11090,21,80.0,0.2
+EXP111,Continue watching prompt,watch_time,True,False,False Positive,False,False,True,0.0,9946,52,80.0,0.2
+EXP057,Recommended row placement,click_through_rate,True,False,False Positive,False,False,True,0.0,15722,29,80.0,0.2
+EXP113,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,True,0.0,30264,45,80.0,0.2
+EXP114,Continue watching prompt,watch_time,True,True,True Positive,False,False,True,0.0,46711,34,80.0,0.2
+EXP056,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,19598,24,80.0,0.2
+EXP119,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,True,0.0,32978,34,80.0,0.2
+EXP097,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,False,0.0,41963,28,100.0,0.0
+EXP069,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.0,41780,43,100.0,0.0
+EXP090,Autoplay next episode,watch_time,True,False,False Positive,False,False,False,0.0,29866,32,100.0,0.0
+EXP067,Recommended row placement,click_through_rate,True,False,False Positive,False,False,False,0.0,28460,38,100.0,0.0
+EXP144,Top 10 label,engagement_rate,True,True,True Positive,False,False,False,0.0,9637,56,100.0,0.0
+EXP187,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.0,11848,58,100.0,0.0
+EXP089,Top 10 label,engagement_rate,True,True,True Positive,False,False,False,0.0,37264,16,100.0,0.0
+EXP146,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,8146,37,100.0,0.0
+EXP073,Autoplay next episode,watch_time,False,True,False Negative,False,False,False,0.6829,41719,26,100.0,0.0
+EXP106,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,False,0.0,41986,53,100.0,0.0
+EXP094,Continue watching prompt,watch_time,True,False,False Positive,False,False,False,0.0,40952,50,100.0,0.0
+EXP147,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,False,0.0,44181,60,100.0,0.0
+EXP171,Recommended row placement,click_through_rate,True,True,True Positive,False,False,False,0.0,16484,55,100.0,0.0
+EXP110,Continue watching prompt,watch_time,True,False,False Positive,False,False,False,0.0,16973,44,100.0,0.0
+EXP075,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.0,21444,20,100.0,0.0
+EXP150,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,False,0.0,40677,32,100.0,0.0
+EXP173,Email re-engagement,reactivation_rate,True,False,False Positive,False,False,False,0.0,22181,54,100.0,0.0
+EXP020,Download for offline prompt,feature_adoption,True,False,False Positive,False,False,False,0.0,40753,30,100.0,0.0
+EXP115,Autoplay next episode,watch_time,True,False,False Positive,False,False,False,0.0,25984,44,100.0,0.0
+EXP116,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,39678,22,100.0,0.0
+EXP092,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.0,6582,50,100.0,0.0
+EXP032,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,False,0.0,35807,46,100.0,0.0
+EXP192,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.002,10656,42,100.0,0.0
+EXP007,Personalised thumbnail,click_through_rate,True,True,True Positive,False,False,False,0.0,25911,28,100.0,0.0
+EXP054,Continue watching prompt,watch_time,True,False,False Positive,False,False,False,0.0,20723,25,100.0,0.0
+EXP031,Skip intro button,episode_completion,True,False,False Positive,False,False,False,0.0,38957,27,100.0,0.0
+EXP123,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,False,0.0,39217,29,100.0,0.0
+EXP074,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,11996,30,100.0,0.0
+EXP158,Top 10 label,engagement_rate,True,False,False Positive,False,False,False,0.0,23270,58,100.0,0.0
+EXP126,Personalised thumbnail,click_through_rate,True,True,True Positive,False,False,False,0.0,38670,38,100.0,0.0
+EXP190,Continue watching prompt,watch_time,True,False,False Positive,False,False,False,0.0,10070,26,100.0,0.0
+EXP029,Skip intro button,episode_completion,True,False,False Positive,False,False,False,0.0,15008,40,100.0,0.0
+EXP129,Top 10 label,engagement_rate,True,True,True Positive,False,False,False,0.0,43358,20,100.0,0.0
+EXP027,Skip intro button,episode_completion,True,False,False Positive,False,False,False,0.0,10186,26,100.0,0.0
+EXP198,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,33756,21,100.0,0.0
+EXP191,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,7723,37,100.0,0.0
+EXP047,Continue watching prompt,watch_time,True,True,True Positive,False,False,False,0.0,15577,16,100.0,0.0
+EXP026,Autoplay next episode,watch_time,True,True,True Positive,False,False,False,0.0,7449,55,100.0,0.0
+EXP046,Continue watching prompt,watch_time,True,True,True Positive,False,False,False,0.0,17263,56,100.0,0.0
+EXP015,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,False,0.0,43006,48,100.0,0.0
+EXP044,Recommended row placement,click_through_rate,True,False,False Positive,False,False,False,0.0,27632,49,100.0,0.0
+EXP186,Autoplay next episode,watch_time,True,True,True Positive,False,False,False,0.0,41503,35,100.0,0.0
+EXP014,Continue watching prompt,watch_time,True,False,False Positive,False,False,False,0.0,37256,43,100.0,0.0
+EXP168,Social proof badge,engagement_rate,True,False,False Positive,False,False,False,0.0,6775,58,100.0,0.0
+EXP141,Personalised thumbnail,click_through_rate,True,False,False Positive,False,False,False,0.0,40134,27,100.0,0.0
+EXP142,Email re-engagement,reactivation_rate,True,True,True Positive,False,False,False,0.0,37320,18,100.0,0.0
